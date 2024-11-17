@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/edo/blog/edindzilicblog",
+	"sourceRoot": "/Users/edo/blog/clumpspirit",
 	"sources": [
 		"themes/hugo-theme-nostyleplease/assets/css/main.scss"
 	],

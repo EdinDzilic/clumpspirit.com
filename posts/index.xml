@@ -6,14 +6,7 @@
     <description>Recent content in Posts on edin dzilic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Nov 2024 21:05:00 -0700</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="https://clumpspirit.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mypost</title>
-      <link>https://clumpspirit.com/posts/mypost/</link>
-      <pubDate>Mon, 11 Nov 2024 21:05:00 -0700</pubDate>
-      <guid>https://clumpspirit.com/posts/mypost/</guid>
-      <description>&lt;p&gt;Hello world.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
